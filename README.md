@@ -25,8 +25,15 @@ Berikut adalah beberapa fitur (Menu) utama dalam dashboard :
 
 ## Screenshoot (Overview)
 
-<img width="1901" height="1027" alt="image" src="https://github.com/user-attachments/assets/163230b9-eff2-4fcb-bf0c-70dbe8872af7" />
+<img width="1899" height="1027" alt="image" src="https://github.com/user-attachments/assets/ba0550dc-e1c3-4f16-ada0-021290d0fe6c" />
 
+<img width="1899" height="1029" alt="image" src="https://github.com/user-attachments/assets/4749fc7d-6892-4622-8780-1f514d66f4c2" />
+
+<img width="1895" height="1035" alt="image" src="https://github.com/user-attachments/assets/338a60ee-b939-4120-a32f-ec76140c0c5d" />
+
+<img width="1897" height="1029" alt="image" src="https://github.com/user-attachments/assets/289e563f-3b16-49ac-a737-8914329ae85f" />
+
+<img width="1901" height="1027" alt="image" src="https://github.com/user-attachments/assets/163230b9-eff2-4fcb-bf0c-70dbe8872af7" />
 
 ## Demo
 
