@@ -4,13 +4,13 @@
 
 ## 📑 Menu
 
-* [Information](#information)
-* [About](#about)
-* [Preview](#preview)
-* [Demo](#demo)
-* [Packages](#packages)
-* [Data Description](#data-description)
-* [Our Team](#our-team)
+* [ℹ️ Information](#information)
+* [📖 About](#about)
+* [📸 Preview](#preview)
+* [▶️ Demo](#demo)
+* [📦 Packages](#packages)
+* [📊 Data Description](#data-description)
+* [👥 Our Team](#our-team)
 
 
 ## ℹ️ Information
