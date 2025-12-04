@@ -5,7 +5,16 @@
 
 ## Menu
 
-Ini hasilnya deskripsi
+### 📑 Menu
+
+* [Information](#information)
+* [About](#about)
+* [Preview](#preview)
+* [Demo](#demo)
+* [Packages](#packages)
+* [Data Description](#data-description)
+* [Our Team](#our-team)
+
 
 ## Information
 
@@ -23,7 +32,7 @@ Berikut adalah beberapa fitur (Menu) utama dalam dashboard :
 
 **Pencarian :** Menyediakan fitur pencarian untuk data (berita) yang spesifik
 
-## Screenshoot (Overview)
+## Preview
 
 <img width="1899" height="1027" alt="image" src="https://github.com/user-attachments/assets/ba0550dc-e1c3-4f16-ada0-021290d0fe6c" />
 
