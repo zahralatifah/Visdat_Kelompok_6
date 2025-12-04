@@ -59,15 +59,15 @@ https://arifapanji.shinyapps.io/BeritaHoaks/
 
 Pada Dashboard ini Package yang digunakan diantaranya adalah :
 
-**Dashboard & UI** : "shiny", "shinydashboard", "shinythemes", "shinyWidgets", "bslib", "shinyjs"
+* **Dashboard & UI** : "shiny", "shinydashboard", "shinythemes", "shinyWidgets", "bslib", "shinyjs"
 
-**Data Manipulation** : "dplyr", "readr", "readxl", "lubridate", "stringr", "forcats"
+* **Data Manipulation** : "dplyr", "readr", "readxl", "lubridate", "stringr", "forcats"
 
-**Visualization** : "ggplot2", "plotly", "echarts4r", "wordcloud", "RColorBrewer", "scales", "plotrix"
+* **Visualization** : "ggplot2", "plotly", "echarts4r", "wordcloud", "RColorBrewer", "scales", "plotrix"
 
-**Tables & Interactive Elements** : "DT", "htmlwidgets",
+* **Tables & Interactive Elements** : "DT", "htmlwidgets",
 
-**Analysis/Forecasting** :"forecast"
+* **Analysis/Forecasting** :"forecast"
 
 ## 📊 Data Description
 
